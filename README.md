@@ -33,6 +33,4 @@ I enjoy doing the same project over and over in different languages and technolo
 
 <br />
 
-<p align="left">
-  <img src="https://gpvc.arturio.dev/0x006e" alt="Profile views" />
-</p>
+![](https://komarev.com/ghpvc/?username=0x006e)
