@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I enjoy doing the same project over and over in different languages and technologies. 😁😁
 
 - 🔭 &nbsp; I’m currently working on nothing. Tadaa!!
-- ⚡️ &nbsp;I'm currently excited about  [SocketIO](https://socket.io/), [TailwindCSS](https://tailwindcss.com/), & [React](https://reactjs.org/)
+- ⚡️ &nbsp;I'm currently excited about [TailwindCSS](https://tailwindcss.com/), & [React](https://reactjs.org/)
 - :pencil: &nbsp;I try to write, Javascript, Python, Typescript, & C++
 - 🌱  &nbsp;I’m always learning
 
