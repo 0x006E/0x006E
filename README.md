@@ -27,8 +27,8 @@ I enjoy doing the same project over and over in different languages and technolo
 
 
 <p align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=0x006e&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x006e&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats-blue-chi.vercel.app/api?username=0x006e&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+  <img align="top" src="https://github-readme-stats-blue-chi.vercel.app/api/top-langs/?username=0x006e&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
