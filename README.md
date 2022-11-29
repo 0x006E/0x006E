@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Here are my trophies!. Take a peek at them.<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=0x006e)](https://github.com/ryo-ma/github-profile-trophy)
 
 I enjoy doing the same project over and over in different languages and technologies. 😁😁
 
