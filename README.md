@@ -19,8 +19,8 @@ Here are my trophies!. Take a peek at them.<br>
 
 I enjoy doing the same project over and over in different languages and technologies. 😁😁
 
-- 🔭 &nbsp; I’m currently working on nothing. Tadaa!!
-- ⚡️ &nbsp;I'm currently excited about [TailwindCSS](https://tailwindcss.com/), & [React](https://reactjs.org/)
+- 🔭 &nbsp; I’m currently working on a chip8 emulator using C to learn the basics.
+- ⚡️ &nbsp;I'm currently excited about [Rust](https://rust-lang.org/) & Embedded System Programming
 - :pencil: &nbsp;I try to write, Javascript, Python, Typescript, & C++
 - 🌱  &nbsp;I’m always learning
 
